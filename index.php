@@ -9,7 +9,7 @@
     <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
-<form>
+<form method="POST" action="registrar.php">
   <div class="mb-3">
     <label for="Identificador" class="form-label">Identificador</label>
     <input type="text" class="form-control" id="Identificador" name="Identificador">
